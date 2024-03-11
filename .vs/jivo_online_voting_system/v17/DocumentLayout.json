@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|c:\\users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\admin_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\admin_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\voter_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\voter_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\voter_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\voter_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\voter_dashboard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\voter_dashboard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\voter_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\voter_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\voter_registration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\voter_registration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\voter_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\voter_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\admin_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\admin_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55E248A6-DF76-4E12-A457-B1B354E3FFA9}|jivo_online_voting_system\\jivo_online_voting_system.vbproj|solutionrelative:jivo_online_voting_system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voter_Dashboard.vb",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Dashboard.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Voter_Dashboard.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Dashboard.vb",
+              "RelativeToolTip": "jivo_online_voting_system\\Voter_Dashboard.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-11T18:09:48.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin_Dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Admin_Dashboard.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Admin_Dashboard.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Admin_Dashboard.vb [Design]",
+              "RelativeToolTip": "jivo_online_voting_system\\Admin_Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-11T15:15:07.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voter_Dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Dashboard.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Voter_Dashboard.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Dashboard.vb [Design]",
+              "RelativeToolTip": "jivo_online_voting_system\\Voter_Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-11T15:15:01.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Voter_Dashboard.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Dashboard.Designer.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Voter_Dashboard.Designer.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Dashboard.Designer.vb",
+              "RelativeToolTip": "jivo_online_voting_system\\Voter_Dashboard.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-11T15:14:31.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Voter_Registration.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Registration.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Voter_Registration.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Registration.vb [Design]",
+              "RelativeToolTip": "jivo_online_voting_system\\Voter_Registration.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-09T10:47:26.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Voter_Login.vb",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Login.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Voter_Login.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Login.vb",
+              "RelativeToolTip": "jivo_online_voting_system\\Voter_Login.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-09T10:45:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin_Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Admin_Login.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Admin_Login.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Admin_Login.vb [Design]",
+              "RelativeToolTip": "jivo_online_voting_system\\Admin_Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-08T22:39:12.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Form1.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Form1.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Form1.vb",
+              "RelativeToolTip": "jivo_online_voting_system\\Form1.vb",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-08T22:34:21.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Voter_Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Login.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Voter_Login.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Voter_Login.vb [Design]",
+              "RelativeToolTip": "jivo_online_voting_system\\Voter_Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-08T22:34:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Form1.vb",
+              "RelativeDocumentMoniker": "jivo_online_voting_system\\Form1.vb",
+              "ToolTip": "C:\\Users\\samny\\source\\repos\\jivo_online_voting_system\\jivo_online_voting_system\\Form1.vb [Design]",
+              "RelativeToolTip": "jivo_online_voting_system\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-08T21:29:24.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
